@@ -5,3 +5,10 @@ Starting the server
 run one of these in the command prompt in the folder that has standardNLP files to
 #java -mx6g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 50000
 #java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+
+-------------------edit------------------------------
+The updated file has code for sentimental analysis using NLTK(The Natural Language Toolkit)
+what is need to be done?
+1. date wise sentimental analysis of the tweets
+2. plotting the graph for each day
+
